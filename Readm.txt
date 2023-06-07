@@ -1,1 +1,2 @@
-Les étape pour créer un depot en ligne 
+Les étape pour créer un depot en ligne
+etape 1 : il faut se connecter sur la plateforme github
